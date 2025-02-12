@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/dmitry-dvornikov-6b3827346/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitry.dvornikov.job@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@dmitrydvornikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dmitry-dvornikov-6b3827346/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitry.dvornikov.job@gmail.com)
 
 ---
 
