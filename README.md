@@ -86,5 +86,3 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
